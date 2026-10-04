@@ -1,2 +1,5 @@
 #@@||app.mygate.in^$important
 #@@||feed.mygate.com^$important
+
+
+@@||srvc.platform.quboworld.com^$important
