@@ -1,0 +1,2 @@
+@@||app.mygate.in^$important
+@@||feed.mygate.com^$important
