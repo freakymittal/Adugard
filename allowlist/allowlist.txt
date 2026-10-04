@@ -1,5 +1,7 @@
 #@@||app.mygate.in^$important
 #@@||feed.mygate.com^$important
 
-
+## Qubo
 @@||srvc.platform.quboworld.com^$important
+@@||srvcapp.platform.quboworld.com^$important
+#@@||stun6.platform.quboworld.com^$important
